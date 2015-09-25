@@ -1,8 +1,9 @@
 .idea/workspace.xml
 /Build/
-!/Configuration/*
-!/Data/*
-!/Packages/*
+/Configuration/*
+Configuration/Development/*
+/Data/*
+/Packages/*
 /Web/
 /bin/
 !/Readme.rst
