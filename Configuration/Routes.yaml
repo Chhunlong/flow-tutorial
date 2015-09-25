@@ -14,11 +14,14 @@
 # informative welcome screen.
 
 -
-  name: 'Welcome'
-  uriPattern: '<WelcomeSubroutes>'
+  name: 'Index'
+  uriPattern: '<WETutorialSubroutes>'
+  defaults:
+    '@package': 'WE.Tutorial'
+    '@format': 'html'
   subRoutes:
-    WelcomeSubroutes:
-      package: TYPO3.Welcome
+    WETutorialSubroutes:
+      package: WE.Tutorial
 
 ##
 # Flow subroutes
