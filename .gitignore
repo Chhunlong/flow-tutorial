@@ -1,0 +1,11 @@
+.idea/workspace.xml
+/Build/
+!/Configuration/*
+!/Data/*
+!/Packages/*
+/Web/
+/bin/
+!/Readme.rst
+!/Upgrading.rst
+/flow
+/flow.bat
